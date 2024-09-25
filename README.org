@@ -3,8 +3,7 @@
 Utility for running external programs
 
 |---------+-------------------------------------------|
-| source  | git:https://github.com/ruricolist/cmd.git   |
-| commit  | 0164d57  |
-| systems | cmd |
+| source  | git:https://github.com/ruricolist/cmd.git |
+| commit  | 41955da                                   |
+| systems | cmd                                       |
 |---------+-------------------------------------------|
-
