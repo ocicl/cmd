@@ -4,6 +4,6 @@ Utility for running external programs
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/ruricolist/cmd.git |
-| commit  | 0e505da                                   |
+| commit  | be128b1                                   |
 | systems | cmd                                       |
 |---------+-------------------------------------------|
